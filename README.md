@@ -1,2 +1,5 @@
 # hello-world
-test repository
+test repository ( a ha değişti)
+
+
+huhuuuu yeni açıklamalar falan filan . 
